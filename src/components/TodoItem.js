@@ -35,6 +35,7 @@ const TodoItem = (props) => {
       }}
       key={item.id}
       className="card"
+      
     >
                       <textarea
                         ref={inputRef}
