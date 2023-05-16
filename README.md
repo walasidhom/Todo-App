@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Build TODO App with Redux and React JS
+
+This repository contains code for Todo app with react-redux.
+
+View Demo: https://todo-app-9bks.onrender.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
